@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/PTNetModel.feature_1.0.0.201611172257.jar" id="PTNetModel.feature" version="1.0.0.201611172257">
+      <category name="PTNetModel"/>
+   </feature>
+   <category-def name="PTNetModel" label="PetrinetModel"/>
+</site>
